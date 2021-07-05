@@ -1,7 +1,7 @@
 {
-    "name": "Template",
+    "name": "No Double Back",
     "version": "1.0.0",
-    "description": "PC Plugin Template",
-    "author": "y/n",
+    "description": "Fixes Linux Double-Back bug",
+    "author": "jai#0001",
     "license": "DBAD"
 }
